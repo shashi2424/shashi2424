@@ -1,5 +1,6 @@
 # 💫 About Me:
 👨‍💻 Prakash Gari Shashi Kumar
+
 Full Stack Developer | AI-Focused Engineer | Real-Time Systems Builder 🚀
 
 I am a Full Stack Developer with 3+ years of experience building scalable, production-grade web applications with a strong focus on AI-powered systems and real-time architectures.
